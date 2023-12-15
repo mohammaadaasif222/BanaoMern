@@ -19,16 +19,7 @@ export const posts = [
     postedBy: "Code Nerd 88",
     userImage: "https://s3-alpha-sig.figma.com/img/c20f/9a59/15d7211204149d93adda6dfafb5d81f2?Expires=1703462400&Signature=hebIFkZjr5IOwjDE7pXhN3VMgg~fhwhzdchsG5ICginau8nQuEvzxpHj6bXVwzkSD7u75gqH7xS3u8goho4eRpp1T6oyUBBoqb2MOJ7gnB0Z-E1lvYj5z8e5yT8kiRPaI2Ic0d6kjj0I~Bl185Oh6liYA5U0LRnyfIHfmn-GI6BuqXSapDXyQy49YeNl6IS4RsbhoRVdNAW~PXBDEtUg7txk7qN~KY3eJjIb235Bj3Y-~-uSuEDJE3QleB~facfjWp-oG12xb0APROBqMpm7iN6Nque~Jla92fl32vUz7U~AGVytrfv9Q9WAlw8zJFS~algeEJTbdNievbFqOuHbRQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
   },
-  // {
-  //   title: "Healthy Eating: The Key to a Balanced Life",
-  //   category:"Article",
-  //   content:
-  //     "Tips and recipes for a nutritious diet to keep you energized and healthy.",
-  //   imageUrl: "https://example.com/food.jpg",
-  //   views: 1.0,
-  //   postedBy: "NutritionGuru21",
-  //   userImage: "https:/",
-  // },
+
   {
     title: "The Power of Meditation: Finding Inner Peace",
     category:"Education",
