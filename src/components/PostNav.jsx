@@ -33,15 +33,15 @@ const PostNav = () => {
   return (
     <div className="container pt-5 d-none d-md-block">
       <div className="row px-4">
-        <div className="col-md-6">
-          <ul className="d-flex justify-content-between align-items-center list-unstyled p-0">
+        <div className="col-md-6 d-flex align-items-center">
+          <ul className="d-flex gap-3 align-items-center list-unstyled p-0 m-0">
             {navitem.map((item, index) => (
               <li
                 key={index}
                 onClick={() => setActive(index)}
                 style={{
                   color: active === index ? 'black' : '#898989',
-                  fontWeight: active === index ? 'bold' : 'normal',
+                  fontWeight: active === index ? '600' : 'normal',
                 }}
               >
                 {item.name}

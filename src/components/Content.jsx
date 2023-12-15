@@ -8,7 +8,7 @@ import { PiWarningCircleThin } from "react-icons/pi";
 
 const Content = () => {
   return (
-    <div className="my-5 px-md-0 px-sm-0 container">
+    <div className="px-md-0 px-sm-0 container pt-3">
       <div
         className="row px-lg-5 px-md-0 px-sm-0"
         style={{ flexWrap: "wrap-reverse" }}
